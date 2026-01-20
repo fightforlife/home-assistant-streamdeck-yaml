@@ -1,3 +1,6 @@
+This is a fork to get this working with Mirabox HSV293, Work in progress.
+
+
 <img src="https://user-images.githubusercontent.com/6897215/225175629-28f80bfb-3b0a-44ac-8b52-b719953958d7.png" align="right" style="width: 300px;" />
 
 <h1 align="center">Home Assistant on Stream Deck</h1>
