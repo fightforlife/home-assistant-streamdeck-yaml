@@ -27,7 +27,7 @@ home-assistant-streamdeck-yaml = "home_assistant_streamdeck_yaml:main"
 [tool.unidep]
 channels = ["conda-forge"]
 dependencies = [
-    {pip = "streamdeck"},
+    {pip = "streamcontroller-streamdeck"},
     "cairosvg",
     "jinja2",
     "lxml",
